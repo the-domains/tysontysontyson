@@ -1,0 +1,28 @@
+name: tysontysontyson
+favicon: null
+layout_spectrum: 0.6069919776637107
+typography_spectrum: 0.9733709022402763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8145017737988383
+  lightness: 0.6829803434666246
+  saturation: 0.13964113732799888
+  rhythmicContrast: 0.7741179142612964
+purpose: []
